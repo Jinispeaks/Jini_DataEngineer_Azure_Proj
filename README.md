@@ -13,7 +13,7 @@ This project is trying to  implement  Medallion Architecture (Bronze → Silver 
 - Slowly Changing Dimensions (SCD Type 1)
 - Star Schema Modelling
 ---
-## ⚙️ Pipeline Architecture
+## ⚙️ Project Architecture/ Pipeline Design
 
 ### 1. **Bronze Layer – Raw Ingestion**
 Bronze Layer (Raw Ingest) This is where raw, unfiltered data lands — often directly from source systems, IoT streams, or APIs. Think of it as your immutable source of truth.
@@ -32,3 +32,11 @@ Silver Layer (Cleansed & Enriched) This layer applies cleansing, joins, type cas
 - Applied **SCD Type 1** logic to track changes over time in both dimensions and fact tables.
 - Designed a **Star Schema** with proper relationships for efficient analytics and reporting.
 ---
+
+##  Key Concepts 
+- ⏱️ Incremental Data Loads
+- 🛠️ SCD Type 1 Implementation
+- 🧱 Medallion Architecture (Bronze/Silver/Gold)
+- 🔒 Unity Catalog for Governance
+- 💫 Star Schema Dimensional Model
+
