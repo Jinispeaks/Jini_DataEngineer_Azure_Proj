@@ -3,7 +3,7 @@
 
 This project is trying to  implement  Medallion Architecture (Bronze → Silver → Gold) converting raw data into gold layer(curated analytical layers).It uses Azure-native tools to achieve the same.
 
-🔧 ##Tools & Technologies Used
+## 🔧Tools & Technologies Used
 Microsoft Azure Data Factory
 Azure SQL Database
 Azure Delta Lake
