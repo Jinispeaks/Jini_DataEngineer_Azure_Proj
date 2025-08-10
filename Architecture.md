@@ -2,7 +2,7 @@
 
 
 
-## Azure data factory  --Implementation fact-dimension using scd type1
+## Azure data factory  --Implementation of incremental load 
 
 
 
