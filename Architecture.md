@@ -18,5 +18,5 @@
 
 ## Databricks  --Implementation fact-dimension using scd type1
 
+<img width="1275" height="505" alt="image" src="https://github.com/user-attachments/assets/b5e1cbda-abee-4ade-bc27-aecf0dc8eb31" />
 
-<img width="557" height="237" alt="image" src="https://github.com/user-attachments/assets/87560914-ca8f-4086-bfe5-5f3e11578f6d" />
